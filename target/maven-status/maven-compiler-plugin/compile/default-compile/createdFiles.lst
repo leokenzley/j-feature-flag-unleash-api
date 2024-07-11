@@ -1,0 +1,5 @@
+com/leokenzley/unleash/api/domain/enumeration/UnleashFeatureFlagEnum.class
+com/leokenzley/unleash/api/api/controller/VerifyFeatureFlagController.class
+com/leokenzley/unleash/api/ServletInitializer.class
+com/leokenzley/unleash/api/core/configuration/UnleashClientConfiguration.class
+com/leokenzley/unleash/api/Application.class

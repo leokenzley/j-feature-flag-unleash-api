@@ -1,0 +1,5 @@
+/home/leo/Documentos/estudo/j-feature-flag-unleash-api/src/main/java/com/leokenzley/unleash/api/Application.java
+/home/leo/Documentos/estudo/j-feature-flag-unleash-api/src/main/java/com/leokenzley/unleash/api/ServletInitializer.java
+/home/leo/Documentos/estudo/j-feature-flag-unleash-api/src/main/java/com/leokenzley/unleash/api/api/controller/VerifyFeatureFlagController.java
+/home/leo/Documentos/estudo/j-feature-flag-unleash-api/src/main/java/com/leokenzley/unleash/api/core/configuration/UnleashClientConfiguration.java
+/home/leo/Documentos/estudo/j-feature-flag-unleash-api/src/main/java/com/leokenzley/unleash/api/domain/enumeration/UnleashFeatureFlagEnum.java

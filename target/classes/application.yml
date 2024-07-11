@@ -1,0 +1,9 @@
+spring:
+  application:
+  name: unleash.api
+
+unleash:
+  api-name: ${UNLEASH_APP_NAME}
+  api-token: ${UNLEASH_API_TOKEN}
+  instance: ${UNLEASH_INSTANCE}
+  url: ${UNLEASH_URL}
